@@ -1,1 +1,2 @@
 # Facial Keypoints Recogniser
+In this hackathon, your mission is to identify key points from the provided noisy data. These key points pertain to critical facial features, such as the location of eyes, mouth, and more. It's important to note that the provided key-point labels are not entirely accurate; many of them contain NaN values. Your goal is to overcome this challenge and provide precise key-point predictions. Keep in mind that the hidden test data does not contain any NaN values!
